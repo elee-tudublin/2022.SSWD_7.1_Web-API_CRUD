@@ -6,4 +6,4 @@ obj/*
 config/Development.json
 config/Production.json
 *.docx
-*env
+.env
